@@ -1,6 +1,4 @@
-﻿//Group members
-//Jaida Mendez – 0698734
-//Amy Paterson - 0641278
+
 
 using hospital_emergency_room;
 using System;
