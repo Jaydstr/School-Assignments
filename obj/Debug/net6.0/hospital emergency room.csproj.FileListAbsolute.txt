@@ -1,0 +1,15 @@
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\bin\Debug\net6.0\hospital emergency room.exe
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\bin\Debug\net6.0\hospital emergency room.deps.json
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\bin\Debug\net6.0\hospital emergency room.runtimeconfig.json
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\bin\Debug\net6.0\hospital emergency room.dll
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\bin\Debug\net6.0\hospital emergency room.pdb
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\obj\Debug\net6.0\hospital emergency room.csproj.AssemblyReference.cache
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\obj\Debug\net6.0\hospital emergency room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\obj\Debug\net6.0\hospital emergency room.AssemblyInfoInputs.cache
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\obj\Debug\net6.0\hospital emergency room.AssemblyInfo.cs
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\obj\Debug\net6.0\hospital emergency room.csproj.CoreCompileInputs.cache
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\obj\Debug\net6.0\hospital emergency room.dll
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\obj\Debug\net6.0\refint\hospital emergency room.dll
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\obj\Debug\net6.0\hospital emergency room.pdb
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\obj\Debug\net6.0\hospital emergency room.genruntimeconfig.cache
+C:\Users\jaida\Desktop\Visual Studio Projects\hospital emergency room\hospital emergency room\obj\Debug\net6.0\ref\hospital emergency room.dll
